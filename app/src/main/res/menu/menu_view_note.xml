@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomePage">
+    <item android:id="@+id/action_edit"
+        android:icon="@drawable/ic_action_edit"
+        android:title="edit"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/action_discard"
+        android:icon="@drawable/ic_action_discard"
+        android:title="discard"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/logout"
+        android:title="Log out"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

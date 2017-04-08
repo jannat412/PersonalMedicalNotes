@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "621965745505",
+    "firebase_url": "https://medical-project-80475.firebaseio.com",
+    "project_id": "medical-project-80475",
+    "storage_bucket": "medical-project-80475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621965745505:android:95fcfca8036f3d08",
+        "android_client_info": {
+          "package_name": "ingeniumbd.jannatmostafiz.medinotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621965745505-bhq2s2uqprfnatadsit6hcogvi61m88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6avK01yqjDWCiYNW28sIK8Miqd-1h04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621965745505:android:b90d95b994ef134c",
+        "android_client_info": {
+          "package_name": "ingeniumbd.jannatmostafiz.personalmedicalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621965745505-bhq2s2uqprfnatadsit6hcogvi61m88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6avK01yqjDWCiYNW28sIK8Miqd-1h04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomePage">
+    <!--
+        Menu item's that displayed on Toolbar.
+    -->
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="Add"
+        android:icon="@mipmap/ic_add_white_24dp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/logout"
+        android:title="Log out"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>
